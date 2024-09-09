@@ -1,7 +1,6 @@
 - 
 🧠 Data Analyst 
 
-BI Analytics, ETL, Machine Learning, GenAI, LLM Engineering, API & WebBackend Development
 👋 About me
 
 Hi! I’m Alexandre, from France. I am a Data Analyst and Python Developer with experience in various sides projects including machine learning . Currently, I'm looking for new challenges and open to work !
