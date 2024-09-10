@@ -7,7 +7,7 @@ Hi! I’m Alexandre, from France. I am a Data Analyst and Python Developer with 
 
 🛠️ Technologies & Tools
 
-# Python | SQL | Pandas | scikit-learn | FastAPI | PostgreSQL | Snowflake | DBeaver| dbt | Git | GitHub | Power BI | Looker | Tableau Software
+####  Python | SQL | Pandas | scikit-learn | FastAPI | PostgreSQL | Snowflake | DBeaver| dbt | Git | GitHub | Power BI | Looker | Tableau Software
 
 <!---
 WildAlex37/WildAlex37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
